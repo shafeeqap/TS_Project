@@ -1,0 +1,3 @@
+If using older versions of Vite, @vitejs/plugin-react, and TypeScript. You can update dependencies to the latest versions:
+
+$ npm update vite @vitejs/plugin-react typescript
